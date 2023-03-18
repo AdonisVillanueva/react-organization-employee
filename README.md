@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This accesses the Web API at https://github.com/AdonisVillanueva/OrganizationEmployeeAPI
+
 ## Available Scripts
 
 In the project directory, you can run:
